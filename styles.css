@@ -1,0 +1,30 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f0f0f5;
+    line-height: 1.6;
+}
+
+/* Navbar Customization */
+.navbar {
+    background: linear-gradient(90deg, #0b0c10, #1f2833);
+    border-bottom: 3px solid #45a29e;
+}
+
+.navbar-brand {
+    color: #66fcf1 !important;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #66fcf1 !important;
+    f
